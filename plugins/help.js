@@ -128,7 +128,7 @@ Absolutely! Let’s go through each section of the commands:
 > etc
 ---
 
-> 🤖 *Status:* ✅ *Lucky is Alive and Ready!*
+> 🤖 *Status:* ✅ *Spaido is Alive and Ready!*
 🎉 *Enjoy the Service!*
         `.trim();
 
@@ -145,7 +145,7 @@ Absolutely! Let’s go through each section of the commands:
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
                         newsletterJid: '120363420656466131@newsletter',
-                        newsletterName: 'LUCKY-XD',
+                        newsletterName: 'SPAIDO',
                         serverMessageId: 143
                     }
                 }
